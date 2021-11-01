@@ -104,4 +104,4 @@ async def on_message(message):
             IS_IN_PROGRESS = False
 
 
-client.run('ODY0Mzc0ODE0NDg3NzQwNDE4.YO0hxw.oTkgiDwMd4h2PyehCMOdkN6dKkY')
+client.run('')
